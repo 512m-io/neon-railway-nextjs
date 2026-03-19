@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "512M — Modern Financial Intelligence",
+  title: "512M",
   description:
-    "512M delivers intelligent financial tools, real-time analytics, and seamless banking experiences for the modern era.",
+    "Developer, builder, writer. Sharing projects, ideas, and writing about software and the craft of building.",
   icons: {
     icon: "/favicon.png",
   },
