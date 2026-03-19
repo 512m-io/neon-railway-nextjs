@@ -13,8 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Neon, Next.js, Railway",
-  description: "A Next.js app using Neon database ready to deploy on Railway.",
+  title: "512M — Modern Financial Intelligence",
+  description:
+    "512M delivers intelligent financial tools, real-time analytics, and seamless banking experiences for the modern era.",
   icons: {
     icon: "/favicon.png",
   },
